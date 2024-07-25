@@ -1,8 +1,9 @@
 # Default ignored files
+dp.sql
 /venv
 /env
 .idea
-api/__pycache__/
-config/__pycache__/
+__pycache__
+/db.sqlite3
 /shelf/
 /workspace.xml
